@@ -1,5 +1,5 @@
 {
-  "name": "Lavender",
+  "name": "LavenderNoBG"
   "description": "A light, soft purple theme.",
   "color": "#9279BA",
   "authors": [
@@ -183,9 +183,5 @@
   },
   "unsafe_colors": {
     "CHAT_GREY": "#111011"
-},
-"background": {
-  "url":
-"https://github.com/darealyeeto/EnmityLavender/assets/157327107/aa177b17-afcb-4b65-9954-41e58dd40e5c"
  }
 }
