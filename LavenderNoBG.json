@@ -4,7 +4,7 @@
   "color": "#9279BA",
   "authors": [
     {
-      "name": "darealyeeto",
+      "name": "catnip.json",
       "id": "980160393093730395"
     }
   ],
@@ -179,12 +179,14 @@
     "PLUM_22": "#111011",
     "BRAND_260": "#8a94a8",
     "BRAND_500": "#9279BA",
+    "BRAND_560": "#8E7AB6",
     "BRAND_900": "#111011",
     "BRAND": "#8a94a8",
     "YELLOW_300": "#ffffff",
     "GREEN_600": "#ffffff",
     "DANGER": "#9279BA",
-    "RED": "848484"
+    "RED": "#848484",
+    "RED_400": "#8E7AB6"
   },
   "unsafe_colors": {
     "CHAT_GREY": "#111011"
